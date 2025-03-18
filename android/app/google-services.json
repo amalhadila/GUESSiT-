@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473435461695",
+    "project_id": "task-69bef",
+    "storage_bucket": "task-69bef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473435461695:android:a4ea23b32a06f12590408a",
+        "android_client_info": {
+          "package_name": "com.example.guessit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnU017EqH40rW8NvesnFRYsDYV2qnmrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
